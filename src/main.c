@@ -3,7 +3,7 @@
  * # Лабораторна робота №8
  *
  * \author Poliach Alena, КН-922б
- * \date 17-11-2022
+ * \date 07-12-2022
  */
 /*!
 \file main.c
